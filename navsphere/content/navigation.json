@@ -184,6 +184,14 @@
               "description": "几秒钟内将PDF转换为DOC文件的最佳方法。 100％免费、安全并便于操作！ Convertio — 解决任何文件任何问题的先进在线工具。",
               "icon": "/assets/favicon_1768424607131.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768424703954_m2rat73w1",
+              "title": "在线PS",
+              "href": "https://ps.gaoding.com/#/",
+              "description": "可以快速打开PSD文件、甚至PDF文件都可以进行编辑",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ps.gaoding.com",
+              "enabled": true
             }
           ]
         },
