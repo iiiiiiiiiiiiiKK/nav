@@ -1692,6 +1692,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b39fb151-b2df-44af-8b7f-be3058a7e56d",
+          "title": "专栏",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
