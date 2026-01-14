@@ -264,6 +264,14 @@
               "description": "高质量但只有5次，处理速度很快，需要登录",
               "icon": "/assets/favicon_1768425425900.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768425519642_7e7se0wph",
+              "title": "Wwmi",
+              "href": "https://wwmi.lanzouo.com/iwXNf25t2tjc",
+              "description": "处理简单水印，软件大小仅10M，无需安装，点开即用",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouo.com",
+              "enabled": true
             }
           ]
         },
