@@ -1552,7 +1552,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "e4ac9f0c-6ca5-4d1b-9d8b-a5fc11367cfb",
+          "title": "图片类",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
