@@ -1652,6 +1652,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "d42bbb11-932f-4b3a-8d55-09142573a427",
+          "title": "系统相关",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
