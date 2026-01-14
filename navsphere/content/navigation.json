@@ -400,6 +400,14 @@
               "description": "动图制作工具。本地软件，支持导入m4p格式视频，然后转gif，录制完后，还可以进行编辑处理",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouo.com",
               "enabled": true
+            },
+            {
+              "id": "site_1768427398210_12kt1nkaz",
+              "title": "WinForGIFSicle",
+              "href": "https://wwmi.lanzouo.com/iVtj02i897bg",
+              "description": "Gif制作工具。免安装，文件仅135kb，可以按照尺寸进行比例压缩也可以进行有损数值压缩，推荐使用比例压缩",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouo.com",
+              "enabled": true
             }
           ]
         },
