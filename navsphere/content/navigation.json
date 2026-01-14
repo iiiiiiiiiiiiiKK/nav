@@ -253,7 +253,7 @@
               "id": "site_1768425386450_j4ax4kw25",
               "title": "照片打码",
               "href": "https://cuijianzhuang.github.io/photo-watermark/",
-              "description": "水印处理。离线处理，开源项目；利用浏览器api实现水印，特别适合各种敏感证（身份证，驾照，护照等），一键添加水印，可以进行基础的编辑",
+              "description": "去水印工具。离线处理，开源项目；利用浏览器api实现水印，特别适合各种敏感证（身份证，驾照，护照等），一键添加水印，可以进行基础的编辑",
               "icon": "https://cuijianzhuang.github.io/favicon.svg",
               "enabled": true
             },
