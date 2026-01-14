@@ -360,6 +360,14 @@
               "description": "字体海报。可以直接将图片拖拽进去，样式多，操作性很强",
               "icon": "/assets/favicon_1768426953289.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768427047202_tmyzhworj",
+              "title": "Notecard",
+              "href": "https://www.notecard.top/",
+              "description": "字体海报。多种卡片样式可以生成，文字头像、二维码都可以自定义",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.notecard.top",
+              "enabled": true
             }
           ]
         },
