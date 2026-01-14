@@ -384,6 +384,14 @@
               "description": "GIF动图录制工具。动次是科握旗下一款在线视频转GIF免费工具。它是为新媒体运营定制的动图制作软件，提供三种GIF尺寸选择，分别对应微信公众号贴图最佳尺寸、微博配图最佳大小和微信表情包制作。动次支持手机浏览器制作视频动图，生成适合微信、微博发布的GIF图片大小。您也可以用小视频制作表情包，并直接将GIF导出保存在手机。",
               "icon": "/assets/favicon_1768427118057.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768427213741_i6tobo83v",
+              "title": "FreeConvert",
+              "href": "https://www.freeconvert.com/zh/gif-compressor",
+              "description": "GIF动图制作工具。一款快速的在线 GIF 压缩器，可缩减 GIF 文件大小。我们的 GIF 优化器采用有损压缩和其他策略，可将 GIF 大小缩减高达 60%。",
+              "icon": "/assets/favicon_1768427169717.png",
+              "enabled": true
             }
           ]
         },
