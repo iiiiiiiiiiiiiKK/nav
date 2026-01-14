@@ -203,9 +203,9 @@
             },
             {
               "id": "site_1768424844531_oepou77nj",
-              "title": "图片转换器 - 在线转换图像",
+              "title": "图片转换器",
               "href": "https://convert.io/cn/image-converter",
-              "description": "免费的文件上限是10G,视频、音频、PDF处理工具",
+              "description": "格式转化工具。免费的文件上限是10G,视频、音频、PDF处理工具",
               "icon": "/assets/favicon_1768424801618.svg",
               "enabled": true
             },
