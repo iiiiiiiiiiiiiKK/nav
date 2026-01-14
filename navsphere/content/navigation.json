@@ -1618,6 +1618,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "af95e17d-e9bd-4477-9247-e411ec47d575",
+          "title": "文件资源",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
