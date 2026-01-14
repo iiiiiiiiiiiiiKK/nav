@@ -344,6 +344,14 @@
               "description": "图片压缩工具。优化 PNG、JPG 和 SVG 图像的压缩 — 100% 免费 — 完全在浏览器中完成 — 选择文件大小和质量之间的完美平衡。",
               "icon": "/assets/favicon_1768426729740.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768426840821_m6k3vb5d6",
+              "title": "Caesium",
+              "href": "https://wwmi.lanzouo.com/icoCz1lo8ygf",
+              "description": "图片压缩工具。本地软件，实现精细的调整，修改图片尺寸大小，压缩大小不是很好，如果把质量调低，画质损失会比较明显",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouo.com",
+              "enabled": true
             }
           ]
         },
