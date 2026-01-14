@@ -1684,6 +1684,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "771e78ad-5fec-4d50-a5ee-ec858a1af30d",
+          "title": "小科普",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
