@@ -1660,6 +1660,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1a2f3fc1-70a9-46d1-847f-95e59e9639e8",
+          "title": "其他应用",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
