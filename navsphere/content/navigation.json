@@ -205,6 +205,48 @@
       ]
     },
     {
+      "id": "1768376075010",
+      "title": "资源",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "a36647cc-15bb-42a2-bdbe-69e85aaf47d9",
+          "title": "图片资源",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "6a7c9910-4ff2-4743-8610-76d490c91793",
+          "title": "视音资源",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "af95e17d-e9bd-4477-9247-e411ec47d575",
+          "title": "文件资源",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "72d664ad-6a2d-4287-a228-07b269c9aa0c",
+          "title": "轻松娱乐",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1768376083400",
       "title": "软件",
       "icon": "FolderKanban",
@@ -495,48 +537,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1768376075010",
-      "title": "资源",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "a36647cc-15bb-42a2-bdbe-69e85aaf47d9",
-          "title": "图片资源",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "6a7c9910-4ff2-4743-8610-76d490c91793",
-          "title": "视音资源",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "af95e17d-e9bd-4477-9247-e411ec47d575",
-          "title": "文件资源",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "72d664ad-6a2d-4287-a228-07b269c9aa0c",
-          "title": "轻松娱乐",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
     },
     {
       "id": "1735265493940",
