@@ -1694,7 +1694,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "25dc0ec9-8121-4b8d-a484-b6624e885b4e",
+          "title": "小科普",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
