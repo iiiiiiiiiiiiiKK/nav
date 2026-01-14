@@ -352,6 +352,14 @@
               "description": "图片压缩工具。本地软件，实现精细的调整，修改图片尺寸大小，压缩大小不是很好，如果把质量调低，画质损失会比较明显",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouo.com",
               "enabled": true
+            },
+            {
+              "id": "site_1768426981649_2a8lq5zey",
+              "title": "‎‎‎‎‎‎图片3D模拟",
+              "href": "https://shots.so/",
+              "description": "字体海报。可以直接将图片拖拽进去，样式十分多，多操作性很强",
+              "icon": "/assets/favicon_1768426953289.png",
+              "enabled": true
             }
           ]
         },
