@@ -392,6 +392,14 @@
               "description": "GIF动图制作工具。一款快速的在线 GIF 压缩器，可缩减 GIF 文件大小。我们的 GIF 优化器采用有损压缩和其他策略，可将 GIF 大小缩减高达 60%。",
               "icon": "/assets/favicon_1768427169717.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768427335806_r18dxx5n4",
+              "title": "ScreenToGif",
+              "href": "https://wwmi.lanzouo.com/i5PF32i87rle",
+              "description": "动图制作工具。本地软件，支持导入m4p格式视频，然后转gif，录制完后，还可以进行编辑处理",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouo.com",
+              "enabled": true
             }
           ]
         },
