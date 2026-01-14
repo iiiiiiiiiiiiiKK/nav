@@ -1684,14 +1684,6 @@
           "description": "",
           "enabled": true,
           "items": []
-        },
-        {
-          "id": "1746f2e2-a7b9-429f-bb7c-a8ce0d281453",
-          "title": "Pro",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
