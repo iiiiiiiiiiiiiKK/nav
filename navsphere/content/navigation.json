@@ -328,6 +328,14 @@
               "description": "图片压缩工具。页面直观操作简单，可以粘贴,可以格式转化也可以压缩图片",
               "icon": "/assets/favicon_1768426584812.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768426709581_hhgz7qudx",
+              "title": "熊猫压缩",
+              "href": "https://tinypng.com/",
+              "description": "图片压缩工具。压缩质量成像好，画质损失少。支持批量压缩，上传图片大小不能超过5M",
+              "icon": "/assets/favicon_1768426651173.ico",
+              "enabled": true
             }
           ]
         },
