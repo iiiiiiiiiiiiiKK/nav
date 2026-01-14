@@ -368,6 +368,14 @@
               "description": "字体海报。多种卡片样式可以生成，文字头像、二维码都可以自定义",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.notecard.top",
               "enabled": true
+            },
+            {
+              "id": "site_1768427086848_sxcn6n96i",
+              "title": "‎‎‎‎‎‎MD2Card",
+              "href": "https://md2card.com/zh",
+              "description": "文字卡片。MD2Card 是一个免费的 Markdown 转知识卡片工具，支持一键生成小红书风格海报、社交媒体文案排版，让创作者轻松制作精美的图文内容。支持多种主题风格、长文自动拆分、一键导出图片，让你的创作更加高效。",
+              "icon": "/assets/favicon_1768427071644.ico",
+              "enabled": true
             }
           ]
         },
