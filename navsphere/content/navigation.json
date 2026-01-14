@@ -190,7 +190,7 @@
               "title": "在线PS",
               "href": "https://ps.gaoding.com/#/",
               "description": "图片编辑工具。可以快速打开PSD文件、甚至PDF文件都可以进行编辑",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ps.gaoding.com",
+              "icon": "/assets/img_1768427518108.png",
               "enabled": true
             },
             {
