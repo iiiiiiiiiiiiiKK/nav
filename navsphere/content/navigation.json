@@ -192,6 +192,14 @@
               "description": "可以快速打开PSD文件、甚至PDF文件都可以进行编辑",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=ps.gaoding.com",
               "enabled": true
+            },
+            {
+              "id": "site_1768424775778_ss3fbn8oj",
+              "title": "HAMA | AI Object remover, Image Eraser",
+              "href": "https://www.hama.app/en",
+              "description": "简单处理",
+              "icon": "/assets/favicon_1768424723815.ico",
+              "enabled": true
             }
           ]
         },
