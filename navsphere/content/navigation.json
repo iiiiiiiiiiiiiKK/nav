@@ -155,6 +155,56 @@
       "enabled": true
     },
     {
+      "id": "1768375925034",
+      "title": "工具",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "e4ac9f0c-6ca5-4d1b-9d8b-a5fc11367cfb",
+          "title": "图片类",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "25ba1f61-e841-4e4d-8aa2-40c1ecc45919",
+          "title": "视频类",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "633c0a91-3c03-4bab-ae36-dc6888ad0c0a",
+          "title": "音频类",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "6e03e2d7-6160-4e66-b2dc-0c2dc2d7df5c",
+          "title": "文档类",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "3e3ffa7b-0901-4ea7-be9d-835b894e03ae",
+          "title": "其他类",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1140,56 +1190,6 @@
               "enabled": true
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "1768375925034",
-      "title": "工具",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "e4ac9f0c-6ca5-4d1b-9d8b-a5fc11367cfb",
-          "title": "图片类",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "25ba1f61-e841-4e4d-8aa2-40c1ecc45919",
-          "title": "视频类",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "633c0a91-3c03-4bab-ae36-dc6888ad0c0a",
-          "title": "音频类",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "6e03e2d7-6160-4e66-b2dc-0c2dc2d7df5c",
-          "title": "文档类",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "3e3ffa7b-0901-4ea7-be9d-835b894e03ae",
-          "title": "其他类",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
