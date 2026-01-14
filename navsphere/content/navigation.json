@@ -176,6 +176,14 @@
               "description": "🏆优点\n\n免费免登录，导出支持原图大小(最大支持4096x4096)\n可换背景还有边缘增加等功能\n🥷缺点\n\n没有二次抠图功能，一次性没抠好的就只能用橡皮檫慢慢擦",
               "icon": "/assets/favicon_1768424404347.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768424621989_hcqvzxb1t",
+              "title": "PDF轉DOC (WORD)轉換器。在线自由 — Convertio",
+              "href": "https://convertio.co/zh/pdf-doc/",
+              "description": "几秒钟内将PDF转换为DOC文件的最佳方法。 100％免费、安全并便于操作！ Convertio — 解决任何文件任何问题的先进在线工具。",
+              "icon": "/assets/favicon_1768424607131.png",
+              "enabled": true
             }
           ]
         },
