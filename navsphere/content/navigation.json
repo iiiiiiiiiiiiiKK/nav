@@ -1710,6 +1710,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "8732130d-5bb3-45b6-ba90-080eccf7a28a",
+          "title": "Pro",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
