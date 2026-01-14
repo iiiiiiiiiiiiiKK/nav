@@ -232,6 +232,14 @@
               "description": "选择一张图片并消除背景 - 100% 全自动 - 仅用 5 秒钟 - 无需点击 - 而且免费。",
               "icon": "/assets/favicon_1768425072338.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768425219911_sb7g3jsij",
+              "title": "批量抠图",
+              "href": "https://pixian.ai/",
+              "description": "批量抠图，抠图质量高、速度快",
+              "icon": "/assets/favicon_1768425191579.png",
+              "enabled": true
             }
           ]
         },
