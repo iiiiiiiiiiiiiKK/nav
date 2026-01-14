@@ -296,6 +296,14 @@
               "description": "模糊修复，本地软件，速度快，可批量修复，最大可分辨率放大16倍。对于人像修复效果相对不好，丢失细节比较多",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouo.com",
               "enabled": true
+            },
+            {
+              "id": "site_1768425833939_vulcbodza",
+              "title": "‎‎‎‎‎‎‎图拼宝",
+              "href": "https://picweave.toolooz.com/editor",
+              "description": "图片拼图。界面简洁直观，操作便捷，支持自定义画布参数",
+              "icon": "/assets/favicon_1768425784360.ico",
+              "enabled": true
             }
           ]
         },
