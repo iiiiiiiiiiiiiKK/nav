@@ -248,6 +248,14 @@
               "description": "本地处理，无需网络！本地运行！还有MAC版本，抠图速度巨快，并且支持批量抠图",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=xxbum1999yx.feishu.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1768425386450_j4ax4kw25",
+              "title": "照片打码",
+              "href": "https://cuijianzhuang.github.io/photo-watermark/",
+              "description": "离线处理，开源项目；利用浏览器api实现水印，特别适合各种敏感证（身份证，驾照，护照等），一键添加水印，可以进行基础的编辑",
+              "icon": "https://cuijianzhuang.github.io/favicon.svg",
+              "enabled": true
             }
           ]
         },
