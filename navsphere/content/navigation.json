@@ -312,6 +312,14 @@
               "description": "图片拼图。若图片截图都是一句的话推荐使用：电影字幕拼图，功能相对单一，导出图片质量一般",
               "icon": "/assets/favicon_1768425863421.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768425991417_xmnyjhxla",
+              "title": "证件照生成-帮小忙，腾讯QQ浏览器在线工具箱",
+              "href": "https://tool.browser.qq.com/id_photo.html",
+              "description": "证件照制作。免费免登录、内置抠图功能、无水印导出，证件照格式齐全，甚至收录了地方考公的",
+              "icon": "/assets/favicon_1768425947672.ico",
+              "enabled": true
             }
           ]
         },
