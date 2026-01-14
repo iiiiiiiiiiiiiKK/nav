@@ -1610,6 +1610,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "6a7c9910-4ff2-4743-8610-76d490c91793",
+          "title": "视音资源",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
