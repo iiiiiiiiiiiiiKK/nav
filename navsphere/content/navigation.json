@@ -336,6 +336,14 @@
               "description": "图片压缩工具。压缩质量成像好，画质损失少。支持批量压缩，上传图片大小不能超过5M",
               "icon": "/assets/favicon_1768426651173.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768426759070_3m37or48v",
+              "title": "RECOMPR ",
+              "href": "https://zh.recompressor.com/",
+              "description": "图片压缩工具。优化 PNG、JPG 和 SVG 图像的压缩 — 100% 免费 — 完全在浏览器中完成 — 选择文件大小和质量之间的完美平衡。",
+              "icon": "/assets/favicon_1768426729740.png",
+              "enabled": true
             }
           ]
         },
