@@ -256,6 +256,14 @@
               "description": "离线处理，开源项目；利用浏览器api实现水印，特别适合各种敏感证（身份证，驾照，护照等），一键添加水印，可以进行基础的编辑",
               "icon": "https://cuijianzhuang.github.io/favicon.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1768425472052_yvd61dv6l",
+              "title": "佐糖",
+              "href": "https://picwish.cn/remove-unwanted-object",
+              "description": "高质量但只有5次，处理速度很快，需要登录",
+              "icon": "/assets/favicon_1768425425900.png",
+              "enabled": true
             }
           ]
         },
