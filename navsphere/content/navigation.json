@@ -1568,6 +1568,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "633c0a91-3c03-4bab-ae36-dc6888ad0c0a",
+          "title": "音频类",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
