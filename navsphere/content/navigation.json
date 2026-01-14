@@ -205,6 +205,56 @@
       ]
     },
     {
+      "id": "1768376083400",
+      "title": "软件",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "d23a665d-c8bf-4616-b41d-bfee4cc7e346",
+          "title": "必装应用",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "d42bbb11-932f-4b3a-8d55-09142573a427",
+          "title": "系统相关",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "1a2f3fc1-70a9-46d1-847f-95e59e9639e8",
+          "title": "其他应用",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "f9a8a8db-03ea-4205-ad76-d912bfc78b51",
+          "title": "效率提升",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "87dec3fc-9e44-4dc6-b0a5-d50ef4760ada",
+          "title": "生产力",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -481,56 +531,6 @@
         {
           "id": "72d664ad-6a2d-4287-a228-07b269c9aa0c",
           "title": "轻松娱乐",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": "1768376083400",
-      "title": "软件",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "d23a665d-c8bf-4616-b41d-bfee4cc7e346",
-          "title": "必装应用",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "d42bbb11-932f-4b3a-8d55-09142573a427",
-          "title": "系统相关",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "1a2f3fc1-70a9-46d1-847f-95e59e9639e8",
-          "title": "其他应用",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "f9a8a8db-03ea-4205-ad76-d912bfc78b51",
-          "title": "效率提升",
-          "icon": "Files",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "87dec3fc-9e44-4dc6-b0a5-d50ef4760ada",
-          "title": "生产力",
           "icon": "Files",
           "description": "",
           "enabled": true,
