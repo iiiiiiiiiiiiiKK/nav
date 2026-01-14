@@ -1676,6 +1676,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "87dec3fc-9e44-4dc6-b0a5-d50ef4760ada",
+          "title": "生产力",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
