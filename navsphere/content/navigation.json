@@ -521,6 +521,14 @@
               "description": "可以同时录制多个直播、无需盯着挂后台即可、录制高清、可设置录制时间.支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东https://github.com/chenfan0/fideo-live-record",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouo.com",
               "enabled": true
+            },
+            {
+              "id": "site_1768503310902_2nah6m55v",
+              "title": "Video Compressor",
+              "href": "https://tools.rotato.app/compress",
+              "description": "视频压缩工具。免费且无需登录，速度十分的快！且用且珍惜，最大可支持1G的视频压缩。不能批量压缩和调整具体的参数",
+              "icon": "/assets/favicon_1768503270160.png",
+              "enabled": true
             }
           ]
         },
