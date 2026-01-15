@@ -441,6 +441,14 @@
               "description": "网站视频下载。免安装、高度自定义下载格式、批量下载、高清下载（需要登录B站账号）可以单独下载视频中音频、封面",
               "icon": "/assets/img_1768375806628.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768501965255_19rqlh1hl",
+              "title": "‎‎‎‎‎‎‎ㅤ网页在线提取",
+              "href": "https://tiqu.cc/?utm_source=zhanid.com",
+              "description": "‎‎‎‎‎‎网页在线提取。TiQu.cc是一个免费的视频下载工具，支持从包括VK、TikTok、Facebook、Twitter、Instagram、Vimeo、Telegram等在内的100多个平台下载视频和音频。您可以在不登录的情况下下载高质量的1080p、2k、4k视频和图像。",
+              "icon": "/assets/favicon_1768501932425.ico",
+              "enabled": true
             }
           ]
         },
