@@ -417,7 +417,16 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1768501732197_zxhrtdm3o",
+              "title": "AIX智能下载器 ",
+              "href": "https://aixdownloader.com/zh",
+              "description": "网站视频下载。一键批量下载网页图片、视频、音频等内容，支持主流网站，完全免费。AIX智能下载器可高效实现下载管理，网页图片，视频，音频等内容的嗅探和下载。",
+              "icon": "/assets/favicon_1768501682400.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "633c0a91-3c03-4bab-ae36-dc6888ad0c0a",
