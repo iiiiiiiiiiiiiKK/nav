@@ -449,6 +449,14 @@
               "description": "‎‎‎‎‎‎网页在线提取。TiQu.cc是一个免费的视频下载工具，支持从包括VK、TikTok、Facebook、Twitter、Instagram、Vimeo、Telegram等在内的100多个平台下载视频和音频。您可以在不登录的情况下下载高质量的1080p、2k、4k视频和图像。",
               "icon": "/assets/favicon_1768501932425.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768502044433_nd8wws6e0",
+              "title": "wwmi.lanzouo.com",
+              "href": "https://wwmi.lanzouo.com/ilSAT2jfxmif",
+              "description": "网站视频下载。具体操作的时候会识别出来一堆文件，选择最大那个下载就行了",
+              "icon": "/assets/img_1768375806628.png",
+              "enabled": true
             }
           ]
         },
