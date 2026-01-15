@@ -489,6 +489,14 @@
               "description": "电脑录屏工具。Screenity（浏览器插件）可以录制都整个电脑桌面，无需登录、无水印、不限制录制时长，可以对画面进行标注、鼠标特效等",
               "icon": "/assets/favicon_1768502589821.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768502995638_b6c4f7fms",
+              "title": "Freeconvert",
+              "href": "https://www.freeconvert.com/zh/convert/video-to-mp3",
+              "description": "视频转音频。免登录，直接上传，处理完后还支持进行简单的处理，最大支持上传1G的视频转音频。",
+              "icon": "/assets/favicon_1768502949288.png",
+              "enabled": true
             }
           ]
         },
