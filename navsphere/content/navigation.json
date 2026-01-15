@@ -497,6 +497,14 @@
               "description": "视频转音频。免登录，直接上传，处理完后还支持进行简单的处理，最大支持上传1G的视频转音频。",
               "icon": "/assets/favicon_1768502949288.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768503065947_16rz2n4w1",
+              "title": "‎‎‎‎‎‎‎VideoCaptioner",
+              "href": "https://wwmi.lanzouo.com/iiLdd2j3kzhc",
+              "description": "视频字幕生成工具。视频字幕生成、断句、校正、字幕翻译全流程视频字幕生成、断句、校正、字幕翻译，可以进行视频批量生成字幕",
+              "icon": "/assets/img_1768375806628.png",
+              "enabled": true
             }
           ]
         },
