@@ -473,6 +473,14 @@
               "description": "在线配音。工作室级AI文本转语音和即时语音克隆。行业领先的TTS，具备无与伦比的情感控制，1000多种声音覆盖70多种语言。安全、可定制的固定费率API，并提供免费套餐，让您今天就能开始创作。",
               "icon": "/assets/favicon_1768502134869.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768502315021_vwzbivsy1",
+              "title": "速度快、格式多、100M内免费免登录",
+              "href": "https://convertio.co/zh/pdf-doc/",
+              "description": "视频格式转换工具。几秒钟内将PDF转换为DOC文件的最佳方法。 100％免费、安全并便于操作！ Convertio — 解决任何文件任何问题的先进在线工具。",
+              "icon": "/assets/favicon_1768502260160.png",
+              "enabled": true
             }
           ]
         },
