@@ -457,6 +457,14 @@
               "description": "网站视频下载。具体操作的时候会识别出来一堆文件，选择最大那个下载就行了",
               "icon": "/assets/img_1768375806628.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768502108855_dlugzgduw",
+              "title": "Autocut",
+              "href": "https://autocut.video/",
+              "description": "自动剪辑。剪辑速度十分的快",
+              "icon": "/assets/favicon_1768502083813.png",
+              "enabled": true
             }
           ]
         },
