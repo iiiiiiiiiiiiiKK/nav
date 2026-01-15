@@ -425,6 +425,14 @@
               "description": "网站视频下载。一键批量下载网页图片、视频、音频等内容，支持主流网站，完全免费。AIX智能下载器可高效实现下载管理，网页图片，视频，音频等内容的嗅探和下载。",
               "icon": "/assets/favicon_1768501682400.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768501803718_iom9lcapc",
+              "title": "wwo.lanzouo.com",
+              "href": "https://wwo.lanzouo.com/iLlwQ24qij2h",
+              "description": "网站视频下载。高速下载各种资源，网页上只要是能播放的视频基本就都可以直接下载",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwo.lanzouo.com",
+              "enabled": true
             }
           ]
         },
