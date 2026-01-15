@@ -529,6 +529,14 @@
               "description": "视频压缩工具。免费且无需登录，速度十分的快！且用且珍惜，最大可支持1G的视频压缩。不能批量压缩和调整具体的参数",
               "icon": "/assets/favicon_1768503270160.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768503393885_jjma2nlz9",
+              "title": "小丸工具箱",
+              "href": "https://wwmi.lanzouy.com/iadBp1kr8omd",
+              "description": "视频压缩工具。本地软件，速度更快且不限制文件大小。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouy.com",
+              "enabled": true
             }
           ]
         },
