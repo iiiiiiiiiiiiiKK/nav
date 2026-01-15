@@ -481,6 +481,14 @@
               "description": "视频格式转换工具。几秒钟内将PDF转换为DOC文件的最佳方法。 100％免费、安全并便于操作！ Convertio — 解决任何文件任何问题的先进在线工具。",
               "icon": "/assets/favicon_1768502260160.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768502574709_585ca8b9s",
+              "title": "Bandicam",
+              "href": "https://wwmi.lanzouy.com/iLEZe1kvxfyf",
+              "description": "这款软件操作直观,因为是科学版，录制是没有水印也电脑录屏工具。没有限制。无需联网也可以实用、免安装版本且下载文件只需36M，软件包只有win版本，mac用户建议使用obs进行录屏",
+              "icon": "/assets/favicon_1768502511588.ico",
+              "enabled": true
             }
           ]
         },
