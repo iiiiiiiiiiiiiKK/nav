@@ -505,6 +505,14 @@
               "description": "视频字幕生成工具。视频字幕生成、断句、校正、字幕翻译全流程视频字幕生成、断句、校正、字幕翻译，可以进行视频批量生成字幕",
               "icon": "/assets/img_1768375806628.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768503174908_6895vn01m",
+              "title": "通义听悟",
+              "href": "https://tingwu.aliyun.com/home",
+              "description": "视频提取文案工具。自动提取音频、视频关键词、总结、提炼视频大纲、中英双字幕，可以识别不同声音进行文案区分，还支持直接AI改写提取的文案，每日登录就送10小时的时长。",
+              "icon": "/assets/favicon_1768503135175.png",
+              "enabled": true
             }
           ]
         },
