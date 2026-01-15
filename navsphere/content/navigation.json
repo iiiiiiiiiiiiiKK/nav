@@ -513,6 +513,14 @@
               "description": "视频提取文案工具。自动提取音频、视频关键词、总结、提炼视频大纲、中英双字幕，可以识别不同声音进行文案区分，还支持直接AI改写提取的文案，每日登录就送10小时的时长。",
               "icon": "/assets/favicon_1768503135175.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768503249820_9yu678mwn",
+              "title": "‎‎‎‎‎‎‎Fideo-live-reco",
+              "href": "https://wwmi.lanzouo.com/b00ocixwef%202",
+              "description": "可以同时录制多个直播、无需盯着挂后台即可、录制高清、可设置录制时间.支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东https://github.com/chenfan0/fideo-live-record",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwmi.lanzouo.com",
+              "enabled": true
             }
           ]
         },
