@@ -554,6 +554,14 @@
               "description": "在线配音工具。工作室级AI文本转语音和即时语音克隆。行业领先的TTS，具备无与伦比的情感控制，1000多种声音覆盖70多种语言。安全、可定制的固定费率API，并提供免费套餐，让您今天就能开始创作。",
               "icon": "/assets/favicon_1768502134869.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768701237684_gt59lomhx",
+              "title": "分离人声",
+              "href": "https://vocalremover.org/zh/",
+              "description": "在线伴奏提取工具。将音乐分成分离的人声和器乐轨道。是制作卡拉OK伴奏曲目或阿卡贝拉提取器的完美选择。使用了人工智能算法且完全免费使用。",
+              "icon": "/assets/favicon_1768701207333.ico",
+              "enabled": true
             }
           ]
         },
