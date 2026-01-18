@@ -586,6 +586,22 @@
               "description": "音频编辑工具。只能进行简单的剪辑某一段，不能进行合成拼接.免费在线剪切音频文件。手动输入或通过使用播放条来选择起始时间和结束时间。支持音频格式MP3、AAC、M4A、OGG或WAV等。",
               "icon": "/assets/favicon_1768701398845.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768701526130_3fbv9jyij",
+              "title": "‎‎‎‎‎‎‎ㅤAudaci",
+              "href": "https://wwo.lanzouo.com/iUT8525rnhch",
+              "description": "音频编辑工具。软件大小仅13m，开源免费，可以多轨道编辑剪辑合成、录音、还有一些简单的效果",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwo.lanzouo.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1768701543366_3qltr1rcu",
+              "title": "‎‎‎‎‎‎‎ㅤAudaci",
+              "href": "https://wwo.lanzouo.com/iUT8525rnhch",
+              "description": "音频编辑工具。软件大小仅13m，开源免费，可以多轨道编辑剪辑合成、录音、还有一些简单的效果",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=wwo.lanzouo.com",
+              "enabled": true
             }
           ]
         },
