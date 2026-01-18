@@ -570,6 +570,22 @@
               "description": "伴奏提取工具。本地软件。纯本地运行开源免费，操作十分简单，免安装。还支持贝斯、钢琴分离，将不同的乐器音轨独立分割为音轨",
               "icon": "/assets/img_1768701370953.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768701456614_d6qpf0vut",
+              "title": "‎‎‎‎‎‎‎ㅤCDKM",
+              "href": "https://cdkm.com/cn/cut-audio",
+              "description": "音频编辑工具。只能进行简单的剪辑某一段，不能进行合成拼接.免费在线剪切音频文件。手动输入或通过使用播放条来选择起始时间和结束时间。支持音频格式MP3、AAC、M4A、OGG或WAV等。",
+              "icon": "/assets/favicon_1768701398845.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1768701470478_s6d13mw1w",
+              "title": "‎‎‎‎‎‎‎ㅤCDKM",
+              "href": "https://cdkm.com/cn/cut-audio",
+              "description": "音频编辑工具。只能进行简单的剪辑某一段，不能进行合成拼接.免费在线剪切音频文件。手动输入或通过使用播放条来选择起始时间和结束时间。支持音频格式MP3、AAC、M4A、OGG或WAV等。",
+              "icon": "/assets/favicon_1768701398845.png",
+              "enabled": true
             }
           ]
         },
