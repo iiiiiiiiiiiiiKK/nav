@@ -562,6 +562,14 @@
               "description": "在线伴奏提取工具。将音乐分成分离的人声和器乐轨道。是制作卡拉OK伴奏曲目或阿卡贝拉提取器的完美选择。使用了人工智能算法且完全免费使用。",
               "icon": "/assets/favicon_1768701207333.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1768701341248_vch6w7id3",
+              "title": "‎‎‎‎‎‎‎ㅤspleeter",
+              "href": "https://xxbum1999yx.feishu.cn/docx/KyeddUuZ9oZ6bcxSoZuc0LM2nag?from=from_copylink",
+              "description": "伴奏提取工具。本地软件。纯本地运行开源免费，操作十分简单，免安装。还支持贝斯、钢琴分离，将不同的乐器音轨独立分割为音轨",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=xxbum1999yx.feishu.cn",
+              "enabled": true
             }
           ]
         },
